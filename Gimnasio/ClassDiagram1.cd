@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Gimnasio.pago">
+    <Position X="0.5" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAEAAAQAAEAEAABAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\pago.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gimnasio.precio">
+    <Position X="8.25" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\precio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gimnasio.socio">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASQQAQGkEAEAgAiAAAEIgAAgAIAAIoCAAAI=</HashCode>
+      <FileName>Clases\socio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gimnasio.turno">
+    <Position X="12" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAQAAAAAAAAAAAAFAAQAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\turno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gimnasio.usuario">
+    <Position X="0.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAQAAACEAAAAgAAAAAAAEAACABQAAgAEAgA=</HashCode>
+      <FileName>Clases\usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gimnasio.controlPago">
+    <Position X="3.25" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\controlPago.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gimnasio.controlPrecio">
+    <Position X="9.25" Y="7" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\controlPrecio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gimnasio.controlSesion">
+    <Position X="7" Y="3" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Control\controlSesion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gimnasio.controlSocio">
+    <Position X="15.5" Y="7.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAgAAAAAAAACAAAAA=</HashCode>
+      <FileName>Control\controlSocio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gimnasio.controlTurno">
+    <Position X="13.5" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\controlTurno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gimnasio.controlUsuarios">
+    <Position X="3.75" Y="3" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\controlUsuarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gimnasio.modeloPago">
+    <Position X="0.5" Y="7" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAEAAAAAAAAAAAAEAAAAAAAAAAAAAAAABQAAA=</HashCode>
+      <FileName>Modelo\modeloPago.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gimnasio.modeloPrecio">
+    <Position X="6.25" Y="7" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelo\modeloPrecio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gimnasio.modeloSesion">
+    <Position X="7" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAAAAAAACAAAAAEAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Modelo\modeloSesion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gimnasio.modeloSocio">
+    <Position X="15.5" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAAAAAAAAAAAAAEAAQQAAAACAgAAAAAAQAAA=</HashCode>
+      <FileName>Modelo\modeloSocio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gimnasio.modeloTurno">
+    <Position X="10.75" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAEAAAAAAAAAAAEAAAAAAAAAAAAAAAAARAAA=</HashCode>
+      <FileName>Modelo\modeloTurno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gimnasio.modeloUsuario">
+    <Position X="3.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAAAAAEEAAAAAAEAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Modelo\modeloUsuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
